@@ -1,0 +1,21 @@
+.main {
+  width: 400px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #97c1d2;
+}
+
+.camelCase-container, .lowercase-container {
+  width: 200px;
+  height: 200px;
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
